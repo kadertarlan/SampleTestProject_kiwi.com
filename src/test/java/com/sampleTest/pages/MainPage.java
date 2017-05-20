@@ -1,11 +1,11 @@
-package com.sampleTest.tests.pages;
+package com.sampleTest.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.ClickAndHoldAction;
 
-import com.sampleTest.tests.Ids.MainPageIds;
+import com.sampleTest.Ids.MainPageIds;
 
 import static org.junit.Assert.*;
 

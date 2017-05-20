@@ -1,9 +1,9 @@
-package com.sampleTest.tests.Ids;
+package com.sampleTest.Ids;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import com.sampleTest.tests.config.ConfigPage;
+import com.sampleTest.config.ConfigPage;
 
 public class MainPageIds extends ConfigPage{
 
