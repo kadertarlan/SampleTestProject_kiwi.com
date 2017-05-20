@@ -1,13 +1,13 @@
-package com.sampleTest.pages;
+package com.sampleTest.tests.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.ClickAndHoldAction;
 
-import static org.junit.Assert.*;
+import com.sampleTest.tests.Ids.MainPageIds;
 
-import com.sampleTest.Ids.MainPageIds;
+import static org.junit.Assert.*;
 
 public class MainPage extends MainPageIds {
 

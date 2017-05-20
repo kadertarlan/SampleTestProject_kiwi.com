@@ -1,4 +1,4 @@
-package com.sampleTest.config;
+package com.sampleTest.tests.config;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;

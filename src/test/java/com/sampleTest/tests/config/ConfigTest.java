@@ -1,4 +1,4 @@
-package com.sampleTest.config;
+package com.sampleTest.tests.config;
 
 import java.net.MalformedURLException;
 import java.net.URL;

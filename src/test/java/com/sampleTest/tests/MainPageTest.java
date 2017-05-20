@@ -1,9 +1,9 @@
-package com.sampleTest;
+package com.sampleTest.tests;
 
 import org.junit.Test;
 
-import com.sampleTest.config.ConfigTest;
-import com.sampleTest.pages.MainPage;
+import com.sampleTest.tests.config.ConfigTest;
+import com.sampleTest.tests.pages.MainPage;
 
 
 public class MainPageTest extends ConfigTest {
